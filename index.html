@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oil Today®</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            margin: 0;
+            padding: 40px;
+            background-color: #ffffff;
+            min-height: 10vh;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .main-content {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            max-width: 1600px;
+            margin: 0 auto;
+            width: 100%;
+            position: relative;
+        }
+
+        .platform-intro {
+            font-size: 13rem;
+            font-weight: bold;
+            color: #FF4500;
+            margin-bottom: 1rem;
+        }
+
+        .fuel-types {
+            font-size: 8rem;
+            font-weight: bold;
+            line-height: 1.2;
+            margin-top: 1rem;
+        }
+
+        .fuel-types a {
+            display: block;
+            text-decoration: none;
+            color: #000;
+            margin-bottom: 1rem;
+            transition: color 0.3s ease;
+        }
+
+        .fuel-types a:hover {
+            color: #FF4500;
+        }
+
+        .fuel-types .sub-text {
+            font-size: 2rem;
+        }
+
+        .news-section {
+            position: fixed;
+            right: 40px;
+            top: 150px;
+            width: 21%;
+            padding: 20px;
+            height: calc(100vh - 300px);
+            overflow-y: auto;
+            border-left: 1px solid #ccc;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+
+        .news-section::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .news-section::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 4px;
+        }
+
+        .news-section::-webkit-scrollbar-thumb {
+            background: #ddd;
+            border-radius: 4px;
+        }
+
+        .news-section::-webkit-scrollbar-thumb:hover {
+            background: #ccc;
+        }
+
+        .news-item {
+            margin-bottom: 20px;
+            padding: 15px;
+            border-bottom: 1px solid #eee;
+            background-color: #fff;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        .news-item:hover {
+            background-color: #f8f8f8;
+            transform: translateX(5px);
+        }
+
+        .news-item h3 {
+            font-size: 1.1rem;
+            margin-bottom: 12px;
+            color: #333;
+            line-height: 1.4;
+        }
+
+        .news-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.85rem;
+        }
+
+        .news-info {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .news-source {
+            color: #666;
+            font-weight: 500;
+        }
+
+        .news-date {
+            color: #999;
+        }
+
+        .read-more {
+            color: #FF4500;
+            text-decoration: none;
+            font-weight: bold;
+            padding: 5px 10px;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+
+        .read-more:hover {
+            background-color: rgba(255, 69, 0, 0.1);
+        }
+
+        .location-display {
+            position: fixed;
+            top: 40px;
+            right: 40px;
+            font-size: 2rem;
+            font-weight: bold;
+            color: #FF4500;
+        }
+
+        .bottom-content {
+            margin-top: auto;
+            padding: 20px 0;
+        }
+
+        .made-in {
+            position: fixed;
+            right: 40px;
+            bottom: 20px;
+            font-size: 1rem;
+            font-weight: bold;
+            width: 21%; /* 뉴스 섹션과 같은 너비 */
+            text-align: right;
+        }   
+
+        /* 큰 화면 */
+        @media (min-width: 1601px) {
+            .main-content {
+                margin: 0 auto;
+            }
+        }
+
+        /* 중간 큰 화면 */
+        @media (max-width: 1600px) {
+            .fuel-types {
+                font-size: 7rem;
+            }
+            .platform-intro {
+                font-size: 2.2rem;
+            }
+        }
+
+        /* 중간 화면 */
+        @media (max-width: 1400px) {
+            .fuel-types {
+                font-size: 6rem;
+            }
+            .platform-intro {
+                font-size: 2rem;
+            }
+            .news-section {
+                width: 25%;
+            }
+            .made-in {
+                width: 25%;
+            }
+        }
+
+        /* 작은 중간 화면 */
+        @media (max-width: 1200px) {
+            .fuel-types {
+                font-size: 5rem;
+            }
+            .platform-intro {
+                font-size: 1.8rem;
+            }
+            .news-section {
+                width: 30%;
+            }
+            .made-in {
+                width: 30%;
+            }
+        }
+
+        /* 태블릿 크기 */
+        @media (max-width: 1000px) {
+            .fuel-types {
+                font-size: 4rem;
+            }
+            .platform-intro {
+                font-size: 1.5rem;
+            }
+            .news-section {
+                width: 35%;
+            }
+            .made-in {
+                width: 35%;
+            }
+        }
+
+        /* 모바일 */
+        @media (max-width: 768px) {
+            body {
+                padding: 20px;
+            }
+
+            .main-content {
+                flex-direction: column;
+            }
+
+            .platform-intro {
+                text-align: center;
+                margin: 80px auto 0;
+                font-size: 1.2rem;
+            }
+
+            .fuel-types {
+                text-align: center;
+                margin: 40px auto;
+                font-size: 2.5rem;
+            }
+
+            .news-section {
+                position: static;
+                width: 100%;
+                height: auto;
+                border-left: none;
+                border-bottom: 1px solid #ccc;
+                margin: 20px 0;
+                box-shadow: none;
+            }
+
+            .location-display {
+                position: static;
+                text-align: center;
+                margin-top: 20px;
+                font-size: 1.2rem;
+            }
+
+            .bottom-content {
+                text-align: center;
+                margin-top: 40px;
+            }
+
+            .made-in {
+                font-size: 0.8rem;
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="main-content">
+        <div class="platform-intro">
+            Oil Today®
+        </div>
+
+        <div class="fuel-types">
+            <a href="pages/gasoline.html">Gasoline<span class="sub-text">(휘발유)</span></a>
+            <a href="pages/high-octane.html">High-Octane<span class="sub-text">(고급휘발유)</span></a>
+            <a href="pages/lpg.html">LPG<span class="sub-text">(액화석유가스)</span></a>
+            <a href="pages/diesel.html">Diesel<span class="sub-text">(경유)</span></a>
+        </div>
+
+        <div class="bottom-content">
+            <div class="made-in">한남대학교 프로그램호환</div>
+        </div>
+    </div>
+
+    <div class="location-display" id="location">서비스위치: </div>
+    
+    <div class="news-section" id="news">
+        <h2>유가 관련 뉴스</h2>
+    </div>
+
+    <script>
+        // 위치 정보 가져오기
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(showPosition, showError);
+        } else {
+            document.getElementById("location").innerText = "현위치: 위치 정보를 사용할 수 없습니다.";
+        }
+
+        function showPosition(position) {
+            const lat = position.coords.latitude;
+            const lon = position.coords.longitude;
+
+            const apiKey = 'AIzaSyDSFAV5BUxxnEXGBc90S7LEYQKc5gqZIeM';
+            const url = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${lat},${lon}&key=${apiKey}&language=ko`;
+
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.results && data.results[0]) {
+                        const addressComponents = data.results[0].address_components;
+                        const locality = addressComponents.find(component => component.types.includes("locality"));
+                        const sublocality = addressComponents.find(component => component.types.includes("sublocality_level_1"));
+                        const administrativeArea = addressComponents.find(component => component.types.includes("administrative_area_level_1"));
+
+                        const address = [administrativeArea, locality, sublocality]
+                            .filter(component => component)
+                            .map(component => component.long_name)
+                            .join(' ');
+
+                        document.getElementById("location").innerText = `현위치: ${address}`;
+                    } else {
+                        document.getElementById("location").innerText = "현위치: 위치 정보를 가져올 수 없습니다.";
+                    }
+                })
+                .catch(error => {
+                    console.error('Error fetching location:', error);
+                    document.getElementById("location").innerText = "현위치: 위치 정보를 가져올 수 없습니다.";
+                });
+        }
+
+        function showError(error) {
+            switch(error.code) {
+                case error.PERMISSION_DENIED:
+                    document.getElementById("location").innerText = "현위치: 위치 정보 사용이 거부되었습니다.";
+                    break;
+                case error.POSITION_UNAVAILABLE:
+                    document.getElementById("location").innerText = "현위치: 위치 정보를 사용할 수 없습니다.";
+                    break;
+                case error.TIMEOUT:
+                    document.getElementById("location").innerText = "현위치: 위치 정보 요청 시간이 초과되었습니다.";
+                    break;
+                case error.UNKNOWN_ERROR:
+                    document.getElementById("location").innerText = "현위치: 알 수 없는 오류가 발생했습니다.";
+                    break;
+            }
+        }
+
+        // 뉴스 가져오기
+        function fetchNews() {
+    const googleNewsRss = 'https://news.google.com/rss/search?q=유가&hl=ko&gl=KR&ceid=KR:ko';
+    const rss2jsonUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(googleNewsRss)}`;
+    
+    fetch(rss2jsonUrl)
+        .then(response => response.json())
+        .then(data => {
+            const newsContainer = document.getElementById('news');
+            const h2 = newsContainer.querySelector('h2');
+            newsContainer.innerHTML = '';
+            newsContainer.appendChild(h2);
+
+            if (data.items && data.items.length > 0) {
+                data.items.slice(0, 10).forEach(item => {
+                    const newsItem = document.createElement('div');
+                    newsItem.className = 'news-item';
+                    newsItem.innerHTML = `
+                        <h3>${item.title}</h3>
+                        <div class="news-meta">
+                            <div class="news-info">
+                                <span class="news-date">${new Date(item.pubDate).toLocaleDateString('ko-KR', {
+                                    year: 'numeric',
+                                    month: 'long',
+                                    day: 'numeric'
+                                })}</span>
+                            </div>
+                            <a href="${item.link}" target="_blank" class="read-more">더 읽기 →</a>
+                        </div>
+                    `;
+                    newsContainer.appendChild(newsItem);
+                });
+            } else {
+                const noNews = document.createElement('p');
+                noNews.textContent = '현재 표시할 뉴스가 없습니다.';
+                newsContainer.appendChild(noNews);
+            }
+        })
+        .catch(error => {
+            console.error('Error fetching news:', error);
+            document.getElementById('news').innerHTML = '<h2>유가 관련 뉴스</h2><p>뉴스를 가져올 수 없습니다.</p>';
+        });
+}
+
+        // 페이지 로드 시 뉴스 가져오기
+        fetchNews();
+
+        // 5분마다 뉴스 새로고침
+        setInterval(fetchNews, 300000);
+    </script>
+</body>
+</html>

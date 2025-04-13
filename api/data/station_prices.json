@@ -1,0 +1,1640 @@
+[
+  {
+    "product": "휘발유",
+    "station_id": "A0011826",
+    "station_name": "만남의광장주유소",
+    "price": 1603,
+    "distance": 4763.0,
+    "gis_x": 315535.76499,
+    "gis_y": 540150.38545
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0010172",
+    "station_name": "(주)삼표에너지 아시아주유소",
+    "price": 1633,
+    "distance": 3948.6,
+    "gis_x": 318621.2,
+    "gis_y": 545112.4
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0010236",
+    "station_name": "HD현대오일뱅크㈜직영 강남셀프주유소",
+    "price": 1639,
+    "distance": 1310.6,
+    "gis_x": 315473.02426,
+    "gis_y": 543791.53026
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0010167",
+    "station_name": "삼화주유소",
+    "price": 1643,
+    "distance": 4291.0,
+    "gis_x": 318944.7453,
+    "gis_y": 545335.8477
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000873",
+    "station_name": "한독주유소",
+    "price": 1660,
+    "distance": 3844.5,
+    "gis_x": 310964.2293,
+    "gis_y": 543854.4496
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000863",
+    "station_name": "신반포주유소",
+    "price": 1660,
+    "distance": 3383.7,
+    "gis_x": 311314.1,
+    "gis_y": 544500.6
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000919",
+    "station_name": "HD현대오일뱅크㈜직영 팔레스주유소",
+    "price": 1663,
+    "distance": 2979.5,
+    "gis_x": 311705.55831,
+    "gis_y": 544691.08724
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009881",
+    "station_name": "양재최고주유소",
+    "price": 1664,
+    "distance": 3844.0,
+    "gis_x": 314806.0,
+    "gis_y": 540995.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009913",
+    "station_name": "HD현대오일뱅크㈜직영 서초제일주유소",
+    "price": 1672,
+    "distance": 1537.2,
+    "gis_x": 313763.5,
+    "gis_y": 543603.5
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009912",
+    "station_name": "(주)한미석유 서초주유소",
+    "price": 1675,
+    "distance": 2607.6,
+    "gis_x": 312715.3,
+    "gis_y": 543123.3
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000916",
+    "station_name": "대성산업(주)직영 강남주유소",
+    "price": 1675,
+    "distance": 2767.8,
+    "gis_x": 311935.0,
+    "gis_y": 545184.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009869",
+    "station_name": "말죽거리주유소",
+    "price": 1676,
+    "distance": 1968.8,
+    "gis_x": 315369.6315,
+    "gis_y": 542991.5574
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009861",
+    "station_name": "에쓰오일(주)직영 오토테크주유소",
+    "price": 1678,
+    "distance": 1894.7,
+    "gis_x": 313775.43118,
+    "gis_y": 543172.19675
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009905",
+    "station_name": "HD현대오일뱅크㈜직영 사평로주유소",
+    "price": 1678,
+    "distance": 1016.7,
+    "gis_x": 313680.7987,
+    "gis_y": 545015.7859
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009907",
+    "station_name": "에너지플러스허브 삼방주유소",
+    "price": 1679,
+    "distance": 885.4,
+    "gis_x": 313828.8172,
+    "gis_y": 545078.9899
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000890",
+    "station_name": "지에스칼텍스(주)선천주유소",
+    "price": 1679,
+    "distance": 4455.0,
+    "gis_x": 310282.04464,
+    "gis_y": 544132.64623
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000411",
+    "station_name": "지에스칼텍스㈜직영 남성주유소",
+    "price": 1679,
+    "distance": 4723.8,
+    "gis_x": 310171.28285,
+    "gis_y": 543431.46401
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000426",
+    "station_name": "HD현대오일뱅크㈜직영 사당셀프주유소",
+    "price": 1679,
+    "distance": 4974.2,
+    "gis_x": 310135.54433,
+    "gis_y": 542817.02921
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000866",
+    "station_name": "반포그린주유소",
+    "price": 1679,
+    "distance": 1949.8,
+    "gis_x": 312740.1944,
+    "gis_y": 545022.5152
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009906",
+    "station_name": "극동유화(주) 전당앞주유소",
+    "price": 1685,
+    "distance": 3001.7,
+    "gis_x": 312816.7694,
+    "gis_y": 542484.5787
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009890",
+    "station_name": "서초꽃마을주유소",
+    "price": 1685,
+    "distance": 2638.8,
+    "gis_x": 312637.2199,
+    "gis_y": 543167.7559
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009738",
+    "station_name": "HD현대오일뱅크㈜직영 도곡셀프주유소",
+    "price": 1686,
+    "distance": 2027.7,
+    "gis_x": 315580.0,
+    "gis_y": 543019.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000917",
+    "station_name": "HD현대오일뱅크㈜직영 방배현대주유소",
+    "price": 1688,
+    "distance": 4501.7,
+    "gis_x": 310279.0,
+    "gis_y": 543895.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0011816",
+    "station_name": "태봉셀프주유소",
+    "price": 1693,
+    "distance": 3732.1,
+    "gis_x": 314232.7064,
+    "gis_y": 541131.9545
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000915",
+    "station_name": "대성산업(주)직영 터미널(고속)주유소",
+    "price": 1695,
+    "distance": 2194.4,
+    "gis_x": 312563.0,
+    "gis_y": 545411.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009835",
+    "station_name": "오일프러스 셀프",
+    "price": 1696,
+    "distance": 1867.3,
+    "gis_x": 315268.3,
+    "gis_y": 543063.8
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009919",
+    "station_name": "HD현대오일뱅크㈜직영 양재현대주유소",
+    "price": 1696,
+    "distance": 3185.7,
+    "gis_x": 315259.13639,
+    "gis_y": 541703.85296
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0010229",
+    "station_name": "HD현대오일뱅크㈜직영 유진주유소",
+    "price": 1696,
+    "distance": 2229.2,
+    "gis_x": 315529.564,
+    "gis_y": 542774.1403
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009901",
+    "station_name": "대성석유(주)연일주유소",
+    "price": 1696,
+    "distance": 2476.3,
+    "gis_x": 313392.9,
+    "gis_y": 542721.6
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0011828",
+    "station_name": "양재주유소",
+    "price": 1696,
+    "distance": 2692.7,
+    "gis_x": 315246.1493,
+    "gis_y": 542203.6279
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009916",
+    "station_name": "대신석유(주)대우주유소",
+    "price": 1697,
+    "distance": 4356.2,
+    "gis_x": 315069.06196,
+    "gis_y": 540497.58276
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009061",
+    "station_name": "(주)선진도곡주유소",
+    "price": 1698,
+    "distance": 1241.8,
+    "gis_x": 315081.0,
+    "gis_y": 543661.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0001185",
+    "station_name": "지에스칼텍스㈜ 은마주유소",
+    "price": 1709,
+    "distance": 3049.8,
+    "gis_x": 317724.7,
+    "gis_y": 544619.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0010269",
+    "station_name": "극동유화㈜ 개나리주유소",
+    "price": 1715,
+    "distance": 912.7,
+    "gis_x": 315589.0,
+    "gis_y": 544735.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0010207",
+    "station_name": "SK서광주유소",
+    "price": 1725,
+    "distance": 846.6,
+    "gis_x": 314871.8,
+    "gis_y": 544012.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009705",
+    "station_name": "대교셀프주유소",
+    "price": 1730,
+    "distance": 2246.8,
+    "gis_x": 313501.7,
+    "gis_y": 546749.8
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0001214",
+    "station_name": "삼성동주유소",
+    "price": 1745,
+    "distance": 2990.4,
+    "gis_x": 317543.6403,
+    "gis_y": 545707.2162
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000908",
+    "station_name": "지에스칼텍스(주)남서울주유소",
+    "price": 1750,
+    "distance": 2016.8,
+    "gis_x": 313469.56367,
+    "gis_y": 546449.1848
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009349",
+    "station_name": "SK에너지(주) 성수주유소",
+    "price": 1761,
+    "distance": 4501.1,
+    "gis_x": 316226.7812,
+    "gis_y": 549065.1796
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009712",
+    "station_name": "대동석유 압구정주유소",
+    "price": 1797,
+    "distance": 2618.5,
+    "gis_x": 314797.5,
+    "gis_y": 547453.2
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0006039",
+    "station_name": "(유)동하석유 힐탑셀프주유소",
+    "price": 1837,
+    "distance": 996.0,
+    "gis_x": 314681.8,
+    "gis_y": 545833.6
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009974",
+    "station_name": "지에스칼텍스㈜에너지플러스허브GS타워",
+    "price": 1847,
+    "distance": 329.8,
+    "gis_x": 314996.159,
+    "gis_y": 544938.50758
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0001224",
+    "station_name": "세진에너지(주) 개포주유소",
+    "price": 1848,
+    "distance": 3664.0,
+    "gis_x": 316319.0,
+    "gis_y": 541559.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000894",
+    "station_name": "방배동주유소",
+    "price": 1893,
+    "distance": 4771.9,
+    "gis_x": 310668.2,
+    "gis_y": 542255.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009725",
+    "station_name": "HD현대오일뱅크㈜직영 신사현대주유소",
+    "price": 1899,
+    "distance": 2053.7,
+    "gis_x": 314125.75795,
+    "gis_y": 546814.8516
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009917",
+    "station_name": "대신석유㈜서원주유소",
+    "price": 1998,
+    "distance": 2451.0,
+    "gis_x": 312438.0202,
+    "gis_y": 543848.0625
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0001199",
+    "station_name": "지에스칼텍스㈜ 삼성로주유소",
+    "price": 1999,
+    "distance": 2143.4,
+    "gis_x": 316521.05421,
+    "gis_y": 545938.81589
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000206",
+    "station_name": "(주)남경주유소",
+    "price": 2133,
+    "distance": 3755.9,
+    "gis_x": 311736.0,
+    "gis_y": 547168.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009886",
+    "station_name": "(주)선문에너지 중앙주유소",
+    "price": 2168,
+    "distance": 2392.5,
+    "gis_x": 315487.0,
+    "gis_y": 542584.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0010232",
+    "station_name": "명품주유소",
+    "price": 2178,
+    "distance": 1413.5,
+    "gis_x": 315802.95466,
+    "gis_y": 543975.28409
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009724",
+    "station_name": "HD현대오일뱅크㈜직영 한양주유소",
+    "price": 2198,
+    "distance": 3012.2,
+    "gis_x": 314821.0,
+    "gis_y": 547846.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009392",
+    "station_name": "(주)옥수하이웨이스테이션",
+    "price": 2198,
+    "distance": 4742.7,
+    "gis_x": 312830.9148,
+    "gis_y": 549204.65048
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009715",
+    "station_name": "㈜새서울석유 새서울주유소",
+    "price": 2258,
+    "distance": 2743.1,
+    "gis_x": 314138.9919,
+    "gis_y": 547526.5976
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0010177",
+    "station_name": "대청주유소",
+    "price": 2266,
+    "distance": 4609.0,
+    "gis_x": 319220.9,
+    "gis_y": 544036.1
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0001217",
+    "station_name": "(주)소모 쎈트럴주유소",
+    "price": 2278,
+    "distance": 2324.8,
+    "gis_x": 317006.0,
+    "gis_y": 544776.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009710",
+    "station_name": "SK논현주유소",
+    "price": 2285,
+    "distance": 1916.9,
+    "gis_x": 314292.669,
+    "gis_y": 546714.2385
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000228",
+    "station_name": "에너비스",
+    "price": 2287,
+    "distance": 4477.2,
+    "gis_x": 312359.0,
+    "gis_y": 548665.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000238",
+    "station_name": "한남지점",
+    "price": 2287,
+    "distance": 4360.2,
+    "gis_x": 312355.0,
+    "gis_y": 548525.0
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0009707",
+    "station_name": "(주)제이제이네트웍스 제이제이주유소",
+    "price": 2458,
+    "distance": 1784.2,
+    "gis_x": 314956.10297,
+    "gis_y": 546600.19536
+  },
+  {
+    "product": "휘발유",
+    "station_id": "A0000525",
+    "station_name": "(주)만정에너지 삼보주유소",
+    "price": 2590,
+    "distance": 1666.0,
+    "gis_x": 315959.2,
+    "gis_y": 545907.6
+  },
+  {
+    "product": "경유",
+    "station_id": "A0011826",
+    "station_name": "만남의광장주유소",
+    "price": 1429,
+    "distance": 4763.0,
+    "gis_x": 315535.76499,
+    "gis_y": 540150.38545
+  },
+  {
+    "product": "경유",
+    "station_id": "A0010172",
+    "station_name": "(주)삼표에너지 아시아주유소",
+    "price": 1493,
+    "distance": 3948.6,
+    "gis_x": 318621.2,
+    "gis_y": 545112.4
+  },
+  {
+    "product": "경유",
+    "station_id": "A0010167",
+    "station_name": "삼화주유소",
+    "price": 1493,
+    "distance": 4291.0,
+    "gis_x": 318944.7453,
+    "gis_y": 545335.8477
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009881",
+    "station_name": "양재최고주유소",
+    "price": 1554,
+    "distance": 3844.0,
+    "gis_x": 314806.0,
+    "gis_y": 540995.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000919",
+    "station_name": "HD현대오일뱅크㈜직영 팔레스주유소",
+    "price": 1556,
+    "distance": 2979.5,
+    "gis_x": 311705.55831,
+    "gis_y": 544691.08724
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000411",
+    "station_name": "지에스칼텍스㈜직영 남성주유소",
+    "price": 1559,
+    "distance": 4723.8,
+    "gis_x": 310171.28285,
+    "gis_y": 543431.46401
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000890",
+    "station_name": "지에스칼텍스(주)선천주유소",
+    "price": 1559,
+    "distance": 4455.0,
+    "gis_x": 310282.04464,
+    "gis_y": 544132.64623
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000426",
+    "station_name": "HD현대오일뱅크㈜직영 사당셀프주유소",
+    "price": 1559,
+    "distance": 4974.2,
+    "gis_x": 310135.54433,
+    "gis_y": 542817.02921
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000873",
+    "station_name": "한독주유소",
+    "price": 1563,
+    "distance": 3844.5,
+    "gis_x": 310964.2293,
+    "gis_y": 543854.4496
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000917",
+    "station_name": "HD현대오일뱅크㈜직영 방배현대주유소",
+    "price": 1563,
+    "distance": 4501.7,
+    "gis_x": 310279.0,
+    "gis_y": 543895.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000863",
+    "station_name": "신반포주유소",
+    "price": 1563,
+    "distance": 3383.7,
+    "gis_x": 311314.1,
+    "gis_y": 544500.6
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000916",
+    "station_name": "대성산업(주)직영 강남주유소",
+    "price": 1565,
+    "distance": 2767.8,
+    "gis_x": 311935.0,
+    "gis_y": 545184.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009912",
+    "station_name": "(주)한미석유 서초주유소",
+    "price": 1575,
+    "distance": 2607.6,
+    "gis_x": 312715.3,
+    "gis_y": 543123.3
+  },
+  {
+    "product": "경유",
+    "station_id": "A0011816",
+    "station_name": "태봉셀프주유소",
+    "price": 1575,
+    "distance": 3732.1,
+    "gis_x": 314232.7064,
+    "gis_y": 541131.9545
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009869",
+    "station_name": "말죽거리주유소",
+    "price": 1576,
+    "distance": 1968.8,
+    "gis_x": 315369.6315,
+    "gis_y": 542991.5574
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009913",
+    "station_name": "HD현대오일뱅크㈜직영 서초제일주유소",
+    "price": 1578,
+    "distance": 1537.2,
+    "gis_x": 313763.5,
+    "gis_y": 543603.5
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009890",
+    "station_name": "서초꽃마을주유소",
+    "price": 1585,
+    "distance": 2638.8,
+    "gis_x": 312637.2199,
+    "gis_y": 543167.7559
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009861",
+    "station_name": "에쓰오일(주)직영 오토테크주유소",
+    "price": 1585,
+    "distance": 1894.7,
+    "gis_x": 313775.43118,
+    "gis_y": 543172.19675
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009906",
+    "station_name": "극동유화(주) 전당앞주유소",
+    "price": 1585,
+    "distance": 3001.7,
+    "gis_x": 312816.7694,
+    "gis_y": 542484.5787
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000866",
+    "station_name": "반포그린주유소",
+    "price": 1589,
+    "distance": 1949.8,
+    "gis_x": 312740.1944,
+    "gis_y": 545022.5152
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009835",
+    "station_name": "오일프러스 셀프",
+    "price": 1589,
+    "distance": 1867.3,
+    "gis_x": 315268.3,
+    "gis_y": 543063.8
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009738",
+    "station_name": "HD현대오일뱅크㈜직영 도곡셀프주유소",
+    "price": 1589,
+    "distance": 2027.7,
+    "gis_x": 315580.0,
+    "gis_y": 543019.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0010236",
+    "station_name": "HD현대오일뱅크㈜직영 강남셀프주유소",
+    "price": 1589,
+    "distance": 1310.6,
+    "gis_x": 315473.02426,
+    "gis_y": 543791.53026
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009907",
+    "station_name": "에너지플러스허브 삼방주유소",
+    "price": 1589,
+    "distance": 885.4,
+    "gis_x": 313828.8172,
+    "gis_y": 545078.9899
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009905",
+    "station_name": "HD현대오일뱅크㈜직영 사평로주유소",
+    "price": 1591,
+    "distance": 1016.7,
+    "gis_x": 313680.7987,
+    "gis_y": 545015.7859
+  },
+  {
+    "product": "경유",
+    "station_id": "A0010207",
+    "station_name": "SK서광주유소",
+    "price": 1595,
+    "distance": 846.6,
+    "gis_x": 314871.8,
+    "gis_y": 544012.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000915",
+    "station_name": "대성산업(주)직영 터미널(고속)주유소",
+    "price": 1595,
+    "distance": 2194.4,
+    "gis_x": 312563.0,
+    "gis_y": 545411.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009901",
+    "station_name": "대성석유(주)연일주유소",
+    "price": 1595,
+    "distance": 2476.3,
+    "gis_x": 313392.9,
+    "gis_y": 542721.6
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009916",
+    "station_name": "대신석유(주)대우주유소",
+    "price": 1597,
+    "distance": 4356.2,
+    "gis_x": 315069.06196,
+    "gis_y": 540497.58276
+  },
+  {
+    "product": "경유",
+    "station_id": "A0010229",
+    "station_name": "HD현대오일뱅크㈜직영 유진주유소",
+    "price": 1604,
+    "distance": 2229.2,
+    "gis_x": 315529.564,
+    "gis_y": 542774.1403
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009919",
+    "station_name": "HD현대오일뱅크㈜직영 양재현대주유소",
+    "price": 1604,
+    "distance": 3185.7,
+    "gis_x": 315259.13639,
+    "gis_y": 541703.85296
+  },
+  {
+    "product": "경유",
+    "station_id": "A0011828",
+    "station_name": "양재주유소",
+    "price": 1604,
+    "distance": 2692.7,
+    "gis_x": 315246.1493,
+    "gis_y": 542203.6279
+  },
+  {
+    "product": "경유",
+    "station_id": "A0010269",
+    "station_name": "극동유화㈜ 개나리주유소",
+    "price": 1615,
+    "distance": 912.7,
+    "gis_x": 315589.0,
+    "gis_y": 544735.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009705",
+    "station_name": "대교셀프주유소",
+    "price": 1620,
+    "distance": 2246.8,
+    "gis_x": 313501.7,
+    "gis_y": 546749.8
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009061",
+    "station_name": "(주)선진도곡주유소",
+    "price": 1624,
+    "distance": 1241.8,
+    "gis_x": 315081.0,
+    "gis_y": 543661.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009349",
+    "station_name": "SK에너지(주) 성수주유소",
+    "price": 1665,
+    "distance": 4501.1,
+    "gis_x": 316226.7812,
+    "gis_y": 549065.1796
+  },
+  {
+    "product": "경유",
+    "station_id": "A0006039",
+    "station_name": "(유)동하석유 힐탑셀프주유소",
+    "price": 1687,
+    "distance": 996.0,
+    "gis_x": 314681.8,
+    "gis_y": 545833.6
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009712",
+    "station_name": "대동석유 압구정주유소",
+    "price": 1687,
+    "distance": 2618.5,
+    "gis_x": 314797.5,
+    "gis_y": 547453.2
+  },
+  {
+    "product": "경유",
+    "station_id": "A0001185",
+    "station_name": "지에스칼텍스㈜ 은마주유소",
+    "price": 1689,
+    "distance": 3049.8,
+    "gis_x": 317724.7,
+    "gis_y": 544619.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0001214",
+    "station_name": "삼성동주유소",
+    "price": 1695,
+    "distance": 2990.4,
+    "gis_x": 317543.6403,
+    "gis_y": 545707.2162
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000908",
+    "station_name": "지에스칼텍스(주)남서울주유소",
+    "price": 1699,
+    "distance": 2016.8,
+    "gis_x": 313469.56367,
+    "gis_y": 546449.1848
+  },
+  {
+    "product": "경유",
+    "station_id": "A0001224",
+    "station_name": "세진에너지(주) 개포주유소",
+    "price": 1738,
+    "distance": 3664.0,
+    "gis_x": 316319.0,
+    "gis_y": 541559.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009974",
+    "station_name": "지에스칼텍스㈜에너지플러스허브GS타워",
+    "price": 1767,
+    "distance": 329.8,
+    "gis_x": 314996.159,
+    "gis_y": 544938.50758
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009725",
+    "station_name": "HD현대오일뱅크㈜직영 신사현대주유소",
+    "price": 1789,
+    "distance": 2053.7,
+    "gis_x": 314125.75795,
+    "gis_y": 546814.8516
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000894",
+    "station_name": "방배동주유소",
+    "price": 1796,
+    "distance": 4771.9,
+    "gis_x": 310668.2,
+    "gis_y": 542255.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009917",
+    "station_name": "대신석유㈜서원주유소",
+    "price": 1888,
+    "distance": 2451.0,
+    "gis_x": 312438.0202,
+    "gis_y": 543848.0625
+  },
+  {
+    "product": "경유",
+    "station_id": "A0001199",
+    "station_name": "지에스칼텍스㈜ 삼성로주유소",
+    "price": 1969,
+    "distance": 2143.4,
+    "gis_x": 316521.05421,
+    "gis_y": 545938.81589
+  },
+  {
+    "product": "경유",
+    "station_id": "A0010232",
+    "station_name": "명품주유소",
+    "price": 1977,
+    "distance": 1413.5,
+    "gis_x": 315802.95466,
+    "gis_y": 543975.28409
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009886",
+    "station_name": "(주)선문에너지 중앙주유소",
+    "price": 1989,
+    "distance": 2392.5,
+    "gis_x": 315487.0,
+    "gis_y": 542584.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009724",
+    "station_name": "HD현대오일뱅크㈜직영 한양주유소",
+    "price": 1998,
+    "distance": 3012.2,
+    "gis_x": 314821.0,
+    "gis_y": 547846.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009392",
+    "station_name": "(주)옥수하이웨이스테이션",
+    "price": 1998,
+    "distance": 4742.7,
+    "gis_x": 312830.9148,
+    "gis_y": 549204.65048
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000206",
+    "station_name": "(주)남경주유소",
+    "price": 2022,
+    "distance": 3755.9,
+    "gis_x": 311736.0,
+    "gis_y": 547168.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009715",
+    "station_name": "㈜새서울석유 새서울주유소",
+    "price": 2048,
+    "distance": 2743.1,
+    "gis_x": 314138.9919,
+    "gis_y": 547526.5976
+  },
+  {
+    "product": "경유",
+    "station_id": "A0010177",
+    "station_name": "대청주유소",
+    "price": 2076,
+    "distance": 4609.0,
+    "gis_x": 319220.9,
+    "gis_y": 544036.1
+  },
+  {
+    "product": "경유",
+    "station_id": "A0001217",
+    "station_name": "(주)소모 쎈트럴주유소",
+    "price": 2088,
+    "distance": 2324.8,
+    "gis_x": 317006.0,
+    "gis_y": 544776.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009710",
+    "station_name": "SK논현주유소",
+    "price": 2095,
+    "distance": 1916.9,
+    "gis_x": 314292.669,
+    "gis_y": 546714.2385
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000238",
+    "station_name": "한남지점",
+    "price": 2177,
+    "distance": 4360.2,
+    "gis_x": 312355.0,
+    "gis_y": 548525.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000228",
+    "station_name": "에너비스",
+    "price": 2177,
+    "distance": 4477.2,
+    "gis_x": 312359.0,
+    "gis_y": 548665.0
+  },
+  {
+    "product": "경유",
+    "station_id": "A0009707",
+    "station_name": "(주)제이제이네트웍스 제이제이주유소",
+    "price": 2248,
+    "distance": 1784.2,
+    "gis_x": 314956.10297,
+    "gis_y": 546600.19536
+  },
+  {
+    "product": "경유",
+    "station_id": "A0000525",
+    "station_name": "(주)만정에너지 삼보주유소",
+    "price": 2550,
+    "distance": 1666.0,
+    "gis_x": 315959.2,
+    "gis_y": 545907.6
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0010167",
+    "station_name": "삼화주유소",
+    "price": 1833,
+    "distance": 4291.0,
+    "gis_x": 318944.7453,
+    "gis_y": 545335.8477
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0010172",
+    "station_name": "(주)삼표에너지 아시아주유소",
+    "price": 1833,
+    "distance": 3948.6,
+    "gis_x": 318621.2,
+    "gis_y": 545112.4
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009349",
+    "station_name": "SK에너지(주) 성수주유소",
+    "price": 1854,
+    "distance": 4501.1,
+    "gis_x": 316226.7812,
+    "gis_y": 549065.1796
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000919",
+    "station_name": "HD현대오일뱅크㈜직영 팔레스주유소",
+    "price": 1874,
+    "distance": 2979.5,
+    "gis_x": 311705.55831,
+    "gis_y": 544691.08724
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009869",
+    "station_name": "말죽거리주유소",
+    "price": 1876,
+    "distance": 1968.8,
+    "gis_x": 315369.6315,
+    "gis_y": 542991.5574
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000890",
+    "station_name": "지에스칼텍스(주)선천주유소",
+    "price": 1879,
+    "distance": 4455.0,
+    "gis_x": 310282.04464,
+    "gis_y": 544132.64623
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000866",
+    "station_name": "반포그린주유소",
+    "price": 1879,
+    "distance": 1949.8,
+    "gis_x": 312740.1944,
+    "gis_y": 545022.5152
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000411",
+    "station_name": "지에스칼텍스㈜직영 남성주유소",
+    "price": 1879,
+    "distance": 4723.8,
+    "gis_x": 310171.28285,
+    "gis_y": 543431.46401
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009738",
+    "station_name": "HD현대오일뱅크㈜직영 도곡셀프주유소",
+    "price": 1879,
+    "distance": 2027.7,
+    "gis_x": 315580.0,
+    "gis_y": 543019.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009907",
+    "station_name": "에너지플러스허브 삼방주유소",
+    "price": 1879,
+    "distance": 885.4,
+    "gis_x": 313828.8172,
+    "gis_y": 545078.9899
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009905",
+    "station_name": "HD현대오일뱅크㈜직영 사평로주유소",
+    "price": 1879,
+    "distance": 1016.7,
+    "gis_x": 313680.7987,
+    "gis_y": 545015.7859
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000917",
+    "station_name": "HD현대오일뱅크㈜직영 방배현대주유소",
+    "price": 1888,
+    "distance": 4501.7,
+    "gis_x": 310279.0,
+    "gis_y": 543895.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000916",
+    "station_name": "대성산업(주)직영 강남주유소",
+    "price": 1888,
+    "distance": 2767.8,
+    "gis_x": 311935.0,
+    "gis_y": 545184.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0010229",
+    "station_name": "HD현대오일뱅크㈜직영 유진주유소",
+    "price": 1894,
+    "distance": 2229.2,
+    "gis_x": 315529.564,
+    "gis_y": 542774.1403
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009919",
+    "station_name": "HD현대오일뱅크㈜직영 양재현대주유소",
+    "price": 1894,
+    "distance": 3185.7,
+    "gis_x": 315259.13639,
+    "gis_y": 541703.85296
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0011828",
+    "station_name": "양재주유소",
+    "price": 1894,
+    "distance": 2692.7,
+    "gis_x": 315246.1493,
+    "gis_y": 542203.6279
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000873",
+    "station_name": "한독주유소",
+    "price": 1894,
+    "distance": 3844.5,
+    "gis_x": 310964.2293,
+    "gis_y": 543854.4496
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000863",
+    "station_name": "신반포주유소",
+    "price": 1894,
+    "distance": 3383.7,
+    "gis_x": 311314.1,
+    "gis_y": 544500.6
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009912",
+    "station_name": "(주)한미석유 서초주유소",
+    "price": 1895,
+    "distance": 2607.6,
+    "gis_x": 312715.3,
+    "gis_y": 543123.3
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009861",
+    "station_name": "에쓰오일(주)직영 오토테크주유소",
+    "price": 1898,
+    "distance": 1894.7,
+    "gis_x": 313775.43118,
+    "gis_y": 543172.19675
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009913",
+    "station_name": "HD현대오일뱅크㈜직영 서초제일주유소",
+    "price": 1899,
+    "distance": 1537.2,
+    "gis_x": 313763.5,
+    "gis_y": 543603.5
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000915",
+    "station_name": "대성산업(주)직영 터미널(고속)주유소",
+    "price": 1899,
+    "distance": 2194.4,
+    "gis_x": 312563.0,
+    "gis_y": 545411.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009906",
+    "station_name": "극동유화(주) 전당앞주유소",
+    "price": 1905,
+    "distance": 3001.7,
+    "gis_x": 312816.7694,
+    "gis_y": 542484.5787
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009890",
+    "station_name": "서초꽃마을주유소",
+    "price": 1905,
+    "distance": 2638.8,
+    "gis_x": 312637.2199,
+    "gis_y": 543167.7559
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0001185",
+    "station_name": "지에스칼텍스㈜ 은마주유소",
+    "price": 1909,
+    "distance": 3049.8,
+    "gis_x": 317724.7,
+    "gis_y": 544619.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009835",
+    "station_name": "오일프러스 셀프",
+    "price": 1914,
+    "distance": 1867.3,
+    "gis_x": 315268.3,
+    "gis_y": 543063.8
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009901",
+    "station_name": "대성석유(주)연일주유소",
+    "price": 1916,
+    "distance": 2476.3,
+    "gis_x": 313392.9,
+    "gis_y": 542721.6
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0010207",
+    "station_name": "SK서광주유소",
+    "price": 1920,
+    "distance": 846.6,
+    "gis_x": 314871.8,
+    "gis_y": 544012.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0010236",
+    "station_name": "HD현대오일뱅크㈜직영 강남셀프주유소",
+    "price": 1929,
+    "distance": 1310.6,
+    "gis_x": 315473.02426,
+    "gis_y": 543791.53026
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0010269",
+    "station_name": "극동유화㈜ 개나리주유소",
+    "price": 1935,
+    "distance": 912.7,
+    "gis_x": 315589.0,
+    "gis_y": 544735.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009061",
+    "station_name": "(주)선진도곡주유소",
+    "price": 1938,
+    "distance": 1241.8,
+    "gis_x": 315081.0,
+    "gis_y": 543661.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000908",
+    "station_name": "지에스칼텍스(주)남서울주유소",
+    "price": 1950,
+    "distance": 2016.8,
+    "gis_x": 313469.56367,
+    "gis_y": 546449.1848
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009712",
+    "station_name": "대동석유 압구정주유소",
+    "price": 1977,
+    "distance": 2618.5,
+    "gis_x": 314797.5,
+    "gis_y": 547453.2
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0001214",
+    "station_name": "삼성동주유소",
+    "price": 1995,
+    "distance": 2990.4,
+    "gis_x": 317543.6403,
+    "gis_y": 545707.2162
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000894",
+    "station_name": "방배동주유소",
+    "price": 1998,
+    "distance": 4771.9,
+    "gis_x": 310668.2,
+    "gis_y": 542255.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000426",
+    "station_name": "HD현대오일뱅크㈜직영 사당셀프주유소",
+    "price": 1999,
+    "distance": 4974.2,
+    "gis_x": 310135.54433,
+    "gis_y": 542817.02921
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0006039",
+    "station_name": "(유)동하석유 힐탑셀프주유소",
+    "price": 2007,
+    "distance": 996.0,
+    "gis_x": 314681.8,
+    "gis_y": 545833.6
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009974",
+    "station_name": "지에스칼텍스㈜에너지플러스허브GS타워",
+    "price": 2047,
+    "distance": 329.8,
+    "gis_x": 314996.159,
+    "gis_y": 544938.50758
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009705",
+    "station_name": "대교셀프주유소",
+    "price": 2050,
+    "distance": 2246.8,
+    "gis_x": 313501.7,
+    "gis_y": 546749.8
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009917",
+    "station_name": "대신석유㈜서원주유소",
+    "price": 2098,
+    "distance": 2451.0,
+    "gis_x": 312438.0202,
+    "gis_y": 543848.0625
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0001224",
+    "station_name": "세진에너지(주) 개포주유소",
+    "price": 2195,
+    "distance": 3664.0,
+    "gis_x": 316319.0,
+    "gis_y": 541559.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0001199",
+    "station_name": "지에스칼텍스㈜ 삼성로주유소",
+    "price": 2199,
+    "distance": 2143.4,
+    "gis_x": 316521.05421,
+    "gis_y": 545938.81589
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0010232",
+    "station_name": "명품주유소",
+    "price": 2277,
+    "distance": 1413.5,
+    "gis_x": 315802.95466,
+    "gis_y": 543975.28409
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009725",
+    "station_name": "HD현대오일뱅크㈜직영 신사현대주유소",
+    "price": 2349,
+    "distance": 2053.7,
+    "gis_x": 314125.75795,
+    "gis_y": 546814.8516
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000206",
+    "station_name": "(주)남경주유소",
+    "price": 2352,
+    "distance": 3755.9,
+    "gis_x": 311736.0,
+    "gis_y": 547168.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009886",
+    "station_name": "(주)선문에너지 중앙주유소",
+    "price": 2394,
+    "distance": 2392.5,
+    "gis_x": 315487.0,
+    "gis_y": 542584.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009392",
+    "station_name": "(주)옥수하이웨이스테이션",
+    "price": 2398,
+    "distance": 4742.7,
+    "gis_x": 312830.9148,
+    "gis_y": 549204.65048
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009724",
+    "station_name": "HD현대오일뱅크㈜직영 한양주유소",
+    "price": 2455,
+    "distance": 3012.2,
+    "gis_x": 314821.0,
+    "gis_y": 547846.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0001217",
+    "station_name": "(주)소모 쎈트럴주유소",
+    "price": 2478,
+    "distance": 2324.8,
+    "gis_x": 317006.0,
+    "gis_y": 544776.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0010177",
+    "station_name": "대청주유소",
+    "price": 2486,
+    "distance": 4609.0,
+    "gis_x": 319220.9,
+    "gis_y": 544036.1
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009715",
+    "station_name": "㈜새서울석유 새서울주유소",
+    "price": 2487,
+    "distance": 2743.1,
+    "gis_x": 314138.9919,
+    "gis_y": 547526.5976
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000228",
+    "station_name": "에너비스",
+    "price": 2487,
+    "distance": 4477.2,
+    "gis_x": 312359.0,
+    "gis_y": 548665.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000238",
+    "station_name": "한남지점",
+    "price": 2487,
+    "distance": 4360.2,
+    "gis_x": 312355.0,
+    "gis_y": 548525.0
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009710",
+    "station_name": "SK논현주유소",
+    "price": 2518,
+    "distance": 1916.9,
+    "gis_x": 314292.669,
+    "gis_y": 546714.2385
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0009707",
+    "station_name": "(주)제이제이네트웍스 제이제이주유소",
+    "price": 2698,
+    "distance": 1784.2,
+    "gis_x": 314956.10297,
+    "gis_y": 546600.19536
+  },
+  {
+    "product": "고급휘발유",
+    "station_id": "A0000525",
+    "station_name": "(주)만정에너지 삼보주유소",
+    "price": 2830,
+    "distance": 1666.0,
+    "gis_x": 315959.2,
+    "gis_y": 545907.6
+  },
+  {
+    "product": "자동차부탄",
+    "station_id": "A0011826",
+    "station_name": "만남의광장주유소",
+    "price": 1117,
+    "distance": 4763.0,
+    "gis_x": 315535.76499,
+    "gis_y": 540150.38545
+  },
+  {
+    "product": "자동차부탄",
+    "station_id": "A0009839",
+    "station_name": "(주)진양가스",
+    "price": 1123,
+    "distance": 1286.3,
+    "gis_x": 314931.0,
+    "gis_y": 543575.0
+  },
+  {
+    "product": "자동차부탄",
+    "station_id": "A0000904",
+    "station_name": "서초충전소",
+    "price": 1124,
+    "distance": 4589.6,
+    "gis_x": 311328.9,
+    "gis_y": 541701.9
+  },
+  {
+    "product": "자동차부탄",
+    "station_id": "A0010168",
+    "station_name": "SK행복충전 복지잠실충전소",
+    "price": 1125,
+    "distance": 4791.6,
+    "gis_x": 319471.3,
+    "gis_y": 544996.9
+  },
+  {
+    "product": "자동차부탄",
+    "station_id": "A0001201",
+    "station_name": "남서울가스(주)",
+    "price": 1125,
+    "distance": 3803.0,
+    "gis_x": 318455.7,
+    "gis_y": 544359.4
+  },
+  {
+    "product": "자동차부탄",
+    "station_id": "A0001227",
+    "station_name": "대치에너지",
+    "price": 1125,
+    "distance": 4009.9,
+    "gis_x": 318680.0,
+    "gis_y": 544528.0
+  }
+]

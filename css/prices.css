@@ -1,0 +1,140 @@
+.price-container {
+    margin-top: 150px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fuel-title {
+    font-size: 6rem;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+
+.fuel-types {
+    margin: 0 auto; /* 가운데 정렬 */
+    width: fit-content; /* 내용에 맞게 너비 조정 */
+    font-size: 8rem;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.price-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.price-card {
+    background: #f8f8f8;
+    padding: 30px;
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+}
+
+.price-card:hover {
+    transform: translateY(-5px);
+}
+
+.region {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.price {
+    font-size: 2.5rem;
+    color: #FF4500;
+    margin-bottom: 10px;
+}
+
+.change {
+    font-size: 1.2rem;
+}
+
+.increase {
+    color: #FF4500;
+}
+
+.decrease {
+    color: #0066CC;
+}
+
+@media (max-width: 768px) {
+    .fuel-title {
+        font-size: 3rem;
+    }
+
+    .price-card {
+        padding: 20px;
+    }
+
+    .price {
+        font-size: 2rem;
+    }
+}
+
+
+.news-section {
+    width: 30%;
+    padding: 20px;
+    overflow-y: auto;
+    border-right: 1px solid #ccc;
+    height: calc(100vh - 80px);
+}
+
+.news-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+    background-color: #fff;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.news-item:hover {
+    background-color: #f8f8f8;
+    transform: translateX(5px);
+}
+
+.news-item h3 {
+    font-size: 1.1rem;
+    margin-bottom: 12px;
+    color: #333;
+    line-height: 1.4;
+}
+
+.news-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.85rem;
+}
+
+.news-info {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.news-source {
+    color: #666;
+    font-weight: 500;
+}
+
+.news-date {
+    color: #999;
+}
+
+.read-more {
+    color: #FF4500;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.read-more:hover {
+    background-color: rgba(255, 69, 0, 0.1);
+}

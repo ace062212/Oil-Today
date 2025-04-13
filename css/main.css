@@ -1,0 +1,37 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 0;
+    padding: 40px;
+    background-color: #ffffff;
+    min-height: 100vh;
+    position: relative;
+}
+
+.nav {
+    position: fixed;
+    top: 40px;
+    left: 40px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #000;
+}
+
+.bottom-content {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    text-align: right;
+}
+
+.brand {
+    color: #FF4500;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.made-in {
+    font-size: 0.8rem;
+    margin-top: 10px;
+}
