@@ -1,5 +1,5 @@
 # 🛠️ Oil Today®
-**프로그램호환 과목 개인 프로젝트 - 처음으로 만든 나만의 웹사이트**
+**프로그램호환 과목 팀 프로젝트 - 처음으로 만든 웹사이트**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
